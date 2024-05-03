@@ -20,6 +20,7 @@
         <module>demo09Decorator</module>
         <module>demo10Facade</module>
         <module>demo11Flyweight</module>
+        <module>demo12Proxy</module>
     </modules>
 
 
