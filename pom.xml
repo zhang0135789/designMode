@@ -22,6 +22,7 @@
         <module>demo11Flyweight</module>
         <module>demo12Proxy</module>
         <module>demo13Boserve</module>
+        <module>demo14Visitor</module>
     </modules>
 
 
