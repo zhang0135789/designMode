@@ -23,6 +23,7 @@
         <module>demo12Proxy</module>
         <module>demo13Boserve</module>
         <module>demo14Visitor</module>
+        <module>demo15State</module>
     </modules>
 
 
