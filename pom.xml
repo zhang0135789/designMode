@@ -31,6 +31,7 @@
         <module>demo20Mediator</module>
         <module>demo21Memento</module>
         <module>demo22Strategy</module>
+        <module>demo23Template</module>
 
     </modules>
 
