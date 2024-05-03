@@ -24,7 +24,9 @@
         <module>demo13Boserve</module>
         <module>demo14Visitor</module>
         <module>demo15State</module>
-        <module>demo166ChainOfResponsibility</module>
+        <module>demo16ChainOfResponsibility</module>
+        <module>demo17Command</module>
+
     </modules>
 
 
