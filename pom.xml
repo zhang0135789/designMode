@@ -13,6 +13,8 @@
         <module>demo02FactoryMethod</module>
         <module>demo03Prototype</module>
         <module>demo04Singleton</module>
+        <module>demo05Builder</module>
+        <module>demo06Adapter</module>
     </modules>
 
 
