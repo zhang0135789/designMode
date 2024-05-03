@@ -28,6 +28,8 @@
         <module>demo17Command</module>
         <module>demo18Interpreter</module>
         <module>demo19Interator</module>
+        <module>demo20Mediator</module>
+        <module>demo21Memento</module>
 
     </modules>
 
