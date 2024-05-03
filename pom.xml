@@ -16,6 +16,7 @@
         <module>demo05Builder</module>
         <module>demo06Adapter</module>
         <module>demo07Bridge</module>
+        <module>demo08Composite</module>
     </modules>
 
 

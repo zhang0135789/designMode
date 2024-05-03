@@ -3,6 +3,8 @@
 欢迎交流qq群 ： 786937587
 
 23个常用设计模式基础知识
+参考：https://github.com/xupengboo/design-patterns?tab=readme-ov-file
+
 
 ## 23个设计模式
 ### 创建型
