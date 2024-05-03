@@ -19,6 +19,7 @@
         <module>demo08Composite</module>
         <module>demo09Decorator</module>
         <module>demo10Facade</module>
+        <module>demo11Flyweight</module>
     </modules>
 
 
