@@ -26,6 +26,8 @@
         <module>demo15State</module>
         <module>demo16ChainOfResponsibility</module>
         <module>demo17Command</module>
+        <module>demo18Interpreter</module>
+        <module>demo19Interator</module>
 
     </modules>
 
